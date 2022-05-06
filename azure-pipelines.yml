@@ -6,7 +6,6 @@
 
 pr:
   autoCancel: true
-  pr:
   branches:
     include:
     - main 
